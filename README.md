@@ -195,4 +195,4 @@ For larger scale projects, consider migrating to:
 
 * ECS architecture (for example Bevy-style design)
 * GPU rendering (wgpu)
-* Server-client separation for multiplayer
+* Server-client separation for multiplayer 
